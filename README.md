@@ -1,5 +1,5 @@
 # Vehicle Sales and Market Trends Analysis
-![Vehicle Sales Analysis](https://storage.googleapis.com/kaggle-datasets-images/4476093/7673611/54c7e23d0997f6489d364e084b45a1df/dataset-cover.jpg?t=2024-02-21-20-22-07)
+![Vehicle Sales Analysis](images/cars.jpg)
 ## Introduction
 In the rapidly evolving automotive industry, understanding market trends and vehicle sales dynamics is crucial for manufacturers, dealers, and consumers. The "Vehicle Sales and Market Trends Dataset" provides a comprehensive collection of information pertaining to the sales transactions of various vehicles. This dataset encompasses details such as the year, make, model, trim, body type, transmission type, VIN (Vehicle Identification Number), state of registration, condition rating, odometer reading, exterior and interior colors, seller information, Manheim Market Report (MMR) values, selling prices, and sale dates.
 
