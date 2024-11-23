@@ -5,9 +5,9 @@ In the rapidly evolving automotive industry, understanding market trends and veh
 
 This study aims to explore and analyze this dataset to uncover valuable insights into vehicle sales patterns and market trends. By performing exploratory data analysis (EDA), data cleaning, preprocessing, and visualization, it is aimed to identify key factors influencing vehicle prices, detect outliers, and understand the distribution of various attributes. Additionally, feature engineering and selection techniques will be applied to enhance the dataset's utility for machine learning models, ultimately aiding in predictive analytics and decision-making processes.
 
-Vehicle Sales Dataset: https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+Vehicle Sales Dataset: [Vehicle Sales Data](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
 
-My Kaggle Account: https://www.kaggle.com/yigitcanakcay
+Check The Notebook on Kaggle: [Comprehensive Vehicle Sales Data Analysis](https://www.kaggle.com/code/yigitcanakcay/comprehensive-vehicle-sales-data-analysis)
 
 ## Dataset Information
 The dataset contains the following columns:
